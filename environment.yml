@@ -1,0 +1,11 @@
+name: kserver
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8.*
+  - pip
+  - pip:
+    - matplotlib
+    - seaborn
+    - numpy
+    - networkx
