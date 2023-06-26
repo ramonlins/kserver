@@ -1,5 +1,5 @@
 # Description
-The Simulating the k-Server Problem repository provides a comprehensive set of basic steps and tools for simulating the k-server problem. The k-server problem, a well-known optimization challenge, involves the efficient movement of servers to serve a sequence of requests without prior knowledge of future demands while minimizing overall costs such as time or distance.
+The k-Server Problem repository provides a comprehensive set of basic steps and tools for simulating the k-server problem. The k-server problem, a well-known optimization challenge, involves the efficient movement of servers to serve a sequence of requests without prior knowledge of future demands while minimizing overall costs such as time or distance.
 
 In this repository, you will find a step-by-step guide and accompanying code that allows you to simulate the k-server problem. The simulation encompasses the fundamental aspects required to understand the problem and explore potential solutions. The following basic steps are covered:
 
