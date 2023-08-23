@@ -1,5 +1,5 @@
 # Description
-The k-Server Problem repository provides a comprehensive set of basic steps and tools for simulating the k-server problem. The k-server problem, a well-known optimization challenge, involves the efficient movement of servers to serve a sequence of requests without prior knowledge of future demands while minimizing overall costs such as time or distance.
+The k-server Problem repository provides a comprehensive set of basic steps and tools for simulating the k-server problem. The k-server problem, a well-known optimization challenge, involves the efficient movement of servers to serve a sequence of requests without prior knowledge of future demands while minimizing overall costs such as time or distance.
 
 In this repository, you will find a step-by-step guide and accompanying code that allows you to simulate the k-server problem. The simulation encompasses the fundamental aspects required to understand the problem and explore potential solutions. The following basic steps are covered:
 
@@ -7,13 +7,13 @@ In this repository, you will find a step-by-step guide and accompanying code tha
 
 - Request Generation: Generate a sequence of requests based on a specified distribution or algorithm. This step ensures that the simulation accurately represents the dynamics and uncertainty of real-world scenarios.
 
-- Server Movement: Implement the server movement strategy, which determines how the servers respond to each incoming request. Explore different server movements policies, such as random selection or strategies based on heuristics, to evaluate their impact on the overall performance.
+- Server Movement: Implement the server movement strategy, which determines how the servers respond to each incoming request. Explore different server movement policies, such as random selection or strategies based on heuristics, to evaluate their impact on the overall performance.
 
 - Cost Calculation: Calculate the cost associated with serving each request based on the server movements. The cost can be defined in various ways, such as the Euclidean distance traveled or the time taken to reach the requested node.
 
 - Performance Evaluation: Assess the performance of the server movement strategy by analyzing the total cost incurred throughout the simulation. Compare different strategies and algorithms to identify the most effective approach for minimizing costs.
 
-The repository provides example code and implementations in popular programming languages like Python, Java, or MATLAB, enabling researchers and practitioners to easily simulate and experiment with the k-server problem. Additionally, the code includes comments and documentation to facilitate understanding and modification.
+The repository provides example code and implementations in Python enabling researchers and practitioners to simulate and experiment with the k-server problem. Additionally, the code includes comments and documentation to facilitate understanding and modification.
 
 By utilizing the resources in this repository, researchers and practitioners can gain hands-on experience in simulating the k-server problem and evaluating different strategies and algorithms. This serves as a foundation for further research and development of advanced optimization techniques to address this challenging problem.
 
